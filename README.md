@@ -1,0 +1,1 @@
+# obsidian_cross_platform_vault
