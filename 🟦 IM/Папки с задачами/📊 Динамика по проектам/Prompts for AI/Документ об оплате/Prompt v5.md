@@ -55,7 +55,7 @@ You need to create JSON with the fields you got from the “Answer format” ite
 - Your output should match the output in the data output format clause above 100%. 
 - Every key in the final performance is a must-have. None of the keys must be lost, changed, deleted, or added.
 - Invoice items are often arranged in a table below the main data.
-- Return the output value so that it has the same output format as in the answer format clauseю.
+- Return the output value so that it has the same output format as in the answer format clause.
 
 # Answer examples:
 
