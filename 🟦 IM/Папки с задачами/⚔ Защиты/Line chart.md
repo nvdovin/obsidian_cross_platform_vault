@@ -30,4 +30,4 @@ Previous example is not only one of using of if. It may be a lot of any differen
 ![[Pasted image 20241025093553.png]]
 ![[Pasted image 20241025093602.png]]
 # Sum up
-Well, I will sum up by saying the line chart it is the father of any charts. It is the most effe
+Well, I will sum up by saying the line chart it is the father of any charts. It is the most effective chart. It will help you to forecast some results in future
