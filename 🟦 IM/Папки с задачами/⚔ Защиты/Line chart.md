@@ -20,5 +20,12 @@ But I can answer on this question if I have a line chart. Every single part of t
 ## BI
 *Let's move on to usage in BI systems*
 The line chart is the key element of any (*respecting themselves*) BI system. *It never gets old*!
-Previous example is not only one of using of if. It may be a lot of any difference data sources. Let me show you another examles
+Previous example is not only one of using of if. It may be a lot of any difference data sources. Let me show you another examples:
+![[Pasted image 20241025093505.png]]
 
+![[Pasted image 20241025093523.png]]
+
+![[Pasted image 20241025093542.png]]
+
+![[Pasted image 20241025093553.png]]
+![[Pasted image 20241025093602.png]]
