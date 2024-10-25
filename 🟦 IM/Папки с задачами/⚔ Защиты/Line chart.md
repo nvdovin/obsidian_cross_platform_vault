@@ -1,3 +1,7 @@
+---
+tags:
+  - english
+---
 # What is my favourive chart?
 Let me introduce you with my favourite chart. Ladies and gentlean - **line chart**!
 
