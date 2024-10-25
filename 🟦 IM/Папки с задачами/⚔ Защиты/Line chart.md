@@ -11,9 +11,14 @@ Well, let's start with the main purpose of it - it is nothing else than demonstr
 For example, if we are research some metrics just in time, we don't have all the view at all. We are can't understand is it okay or no for us. But if we have a line chart...
 Everybody wants to have it and to use it in own dashboards, because it really helpful!
 ## Usages
-Well, you can say me - where it may be used? Give us some examples!
-Guys, it may be used everywhere, where you have some changeable by time data. If we are talking it terms of banking, it may be chart of currencies rates. Just image this this chart.
-Axis X is time, and Y axis is the current currency rates.
+*Let me show you an example of usage.*
+Well, you can say me - where it may be used? **Give us some examples!**
+Guys, it may be used everywhere, where you have some changeable by time data. If we are talking it terms of banking, it **based on** chart of currencies rates. Just image this this chart.
+Axis "X" is time, and "Y" axis is the current currency rates.
 Let's imagine again, you have only current currency rate, and... what? Is it okay for me, or for my country? I don't know...
-But I can answer on this question if I have a line chart.
+But I can answer on this question if I have a line chart. Every single part of this chart cries us about valuable of this chart.
+## BI
+*Let's move on to usage in BI systems*
+The line chart is the key element of any (*respecting themselves*) BI system. *It never gets old*!
+Previous example is not only one of using of if. It may be a lot of any difference data sources. Let me show you another examles
 
