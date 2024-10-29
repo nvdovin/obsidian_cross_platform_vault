@@ -1,3 +1,4 @@
+#AI 
 # Instructions
 
 You need to create a task based on the email presented below. Study this email, analyze it, extract its main essence, and fill in the JSON based on the email you have reviewed. Do not create extra fields, i.e., fields that are not in the original JSON structure. Everything enclosed in // is a comment for you and should not be transferred to the final answer. Also, do not wrap your answer in these symbols. Fill in the JSON in **Russian** language. Think in the paradigm of B2B relationships. You are a company providing services. Analyze the attached email below and create a JSON output with the following mandatory keys:

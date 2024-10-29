@@ -1,3 +1,4 @@
+#AI 
 # Data output format
 {
 	"bank_name": "You can get the data to fill in this field from the data in the attached file. The field is responsible for the bank name. The following keywords will help you: "Банк получателя", "банк получателя", "Банк_получателя"

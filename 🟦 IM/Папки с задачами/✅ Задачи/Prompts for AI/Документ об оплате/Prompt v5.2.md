@@ -1,3 +1,4 @@
+#AI 
 # Answer format:
 {
   "document_type": "invoice",

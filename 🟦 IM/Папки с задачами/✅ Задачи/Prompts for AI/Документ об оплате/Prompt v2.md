@@ -1,3 +1,4 @@
+#AI 
 # Data output format
 {
 	"bank_name": "",
