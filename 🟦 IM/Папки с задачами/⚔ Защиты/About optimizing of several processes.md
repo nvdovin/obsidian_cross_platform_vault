@@ -27,4 +27,5 @@ Also we need to record our progress and doing analytics and review of studied st
 
 **Traveling**
 This is really hard to do...
-I want to optimize it by one interesting action. I want to pay all my attention only for this task for a couple of days and write a bot which will research all of the places which I have an possibilities to go. 
+I want to optimize it by one interesting action. I want to pay all my attention only for this task for a couple of days and write a bot which will research all of the places which I have an possibilities to go.
+My bot will grab all of the data about it: places, rates, descriptions.. after it bot will compare it with each other and after it bot will give me his opinion how can I go to.
