@@ -17,4 +17,4 @@ Well, to getting results I need:
 2. Following this program.
 3. Record your current training results.
 4. Doing analytics in the end of every week.
-5. Create 
+5. 
