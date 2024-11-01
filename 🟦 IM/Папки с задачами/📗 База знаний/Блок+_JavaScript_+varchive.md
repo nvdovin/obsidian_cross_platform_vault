@@ -1,5 +1,7 @@
 ---
 Owner: Nikita Vdovin
+tags:
+  - JS
 ---
 **.Блок "JavaScript" varchive**
 
