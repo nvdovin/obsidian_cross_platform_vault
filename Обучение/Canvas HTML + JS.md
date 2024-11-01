@@ -35,6 +35,8 @@ const context = canvas.getContext("2d");
 // Цвед для фигур
 context.fillStyle = "red";
 
+context.lineWidth = 10; // ширина линии
+
 // Рисуем квадрат
 let context.fillRect(xPos, yPos, width, heigth);
 
@@ -72,3 +74,4 @@ class Circle {
 	};
 };
 ```
+
