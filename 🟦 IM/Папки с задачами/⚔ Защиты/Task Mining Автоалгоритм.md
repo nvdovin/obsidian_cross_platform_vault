@@ -1,5 +1,8 @@
 ---
 Owner: Nikita Vdovin
+tags:
+  - TM
+  - Onboarding
 ---
 # Task Mining. Автоалгоритм.
 

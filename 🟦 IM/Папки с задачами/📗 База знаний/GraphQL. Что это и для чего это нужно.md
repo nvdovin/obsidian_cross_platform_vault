@@ -1,5 +1,7 @@
 ---
 Owner: Nikita Vdovin
+tags:
+  - Onboarding
 ---
 # GraphQL. Что это и для чего это нужно?
 

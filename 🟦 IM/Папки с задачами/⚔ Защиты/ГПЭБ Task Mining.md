@@ -1,5 +1,7 @@
 ---
 Owner: Nikita Vdovin
+tags:
+  - TM
 ---
 # ГПЭБ Task Mining
 

@@ -1,5 +1,7 @@
 ---
 Owner: Nikita Vdovin
+tags:
+  - DT
 ---
 # Последовательный запуск скриптов (GraphQL)
 

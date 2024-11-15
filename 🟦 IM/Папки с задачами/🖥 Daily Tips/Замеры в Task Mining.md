@@ -1,5 +1,8 @@
 ---
 Owner: Nikita Vdovin
+tags:
+  - DT
+  - Onboarding
 ---
 # Что такое Task Mining
 

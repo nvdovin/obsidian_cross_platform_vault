@@ -1,5 +1,8 @@
 ---
 Owner: Nikita Vdovin
+Статус: 
+tags:
+  - Onboarding
 ---
   
 
