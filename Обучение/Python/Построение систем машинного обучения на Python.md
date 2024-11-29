@@ -13,8 +13,7 @@
 ```python
 import numpy, scipy
 
-print(numpy.dot == scipy.dot)
-# True
+print(numpy.dot == scipy.dot)         # True
 ```
 
 ## MatPlotLib
@@ -23,6 +22,10 @@ print(numpy.dot == scipy.dot)
 ```python
 import matplotlib.pyplot as plt
 
-plt.scatter(x, y, s=10)  # Режим отображения - кружочки, радиусом 10px. x и y - списки.
-
+plt.scatter(x, y, s=10)      # Режим отображения - кружочки, радиусом 10px. x и y - списки.
+plt.title("Заголовок всего графика")
+plt.xlabel("Легенда оси Х")
+plt.ylabel("Легенда оси У")
+plt.grid(True)               # Отображение сетки
+plt.autoscale(tight=True)    # Автоматическое масштабирование под размеры полотна
 ```
