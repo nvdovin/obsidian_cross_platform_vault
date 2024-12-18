@@ -5,3 +5,4 @@
 7 - flacky
 1 - pickled
 9 - salty
+4 - fired
