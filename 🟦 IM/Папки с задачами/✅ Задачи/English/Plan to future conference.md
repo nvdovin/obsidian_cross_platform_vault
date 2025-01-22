@@ -6,3 +6,7 @@
 5. **Activities: What interactive elements, giveaways, or demos will grab attention?**: We must present our crushual achieves, need to show our gratest customers, show, how many money and fte we and save. It shows how cool to work with us. Surely we must to show the best feedback about us.
 6. **Networking angles: How will we connect with key players and decision-makers**? to try to start talking with it in coffee breakes, in smoking room, in a bar. To ask questions in workshops, or networks to stand out there and to be remembered
 7. **Social media: What content will we share live to create buzz?**: videos like we did in our proces tech, short reels, storyses with part of humor, podcasts about it.
+
+
+**Our questions**
+- 
