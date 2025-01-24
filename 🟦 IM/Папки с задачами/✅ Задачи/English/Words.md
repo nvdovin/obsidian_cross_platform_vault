@@ -1,7 +1,9 @@
-Rashid
-- evening
+R
+1. 
+3. Mercury
+4. 
 
-3. Mercury hotel
 
-Alex
-- 
+A
+1.
+
